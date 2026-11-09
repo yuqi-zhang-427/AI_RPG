@@ -22,7 +22,7 @@
 需要 Node.js **22.13+**；CI 使用 Node.js 24。
 
 ```sh
-git clone https://github.com/qiqi-xingyi/AI_RPG.git
+git clone https://github.com/yuqi-zhang-427/AI_RPG.git
 cd AI_RPG
 npm ci
 cp .env.example .env

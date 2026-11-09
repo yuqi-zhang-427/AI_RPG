@@ -22,7 +22,7 @@ Storybound is a general-purpose AI role-playing project. Fantasy, mystery, cyber
 Requires Node.js **22.13+**. CI runs on Node.js 24.
 
 ```sh
-git clone https://github.com/qiqi-xingyi/AI_RPG.git
+git clone https://github.com/yuqi-zhang-427/AI_RPG.git
 cd AI_RPG
 npm ci
 cp .env.example .env
